@@ -1,0 +1,32 @@
+{
+    "activeFile": "tilemap.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "desert-ruins.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "tilemap.tmx": {
+            "scale": 2.223,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 199.5051731893837,
+                "y": 104.13855150697258
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/jhide/Documents/_PROJECTS/pygame/run/assets",
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "tilemap.tmx",
+        "desert-ruins.tsx"
+    ],
+    "project": "tilemap.tiled-project",
+    "recentFiles": [
+        "desert-ruins.tsx",
+        "tilemap.tmx"
+    ]
+}
